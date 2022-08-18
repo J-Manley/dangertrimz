@@ -1,0 +1,46 @@
+[18-Aug-2022 18:52:03 UTC] PHP Warning:  require(/Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/inc/block-patterns.php): failed to open stream: No such file or directory in /Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/functions.php on line 67
+[18-Aug-2022 18:52:03 UTC] PHP Stack trace:
+[18-Aug-2022 18:52:03 UTC] PHP   1. {main}() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/admin-ajax.php:0
+[18-Aug-2022 18:52:03 UTC] PHP   2. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/admin-ajax.php:22
+[18-Aug-2022 18:52:03 UTC] PHP   3. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-load.php:50
+[18-Aug-2022 18:52:03 UTC] PHP   4. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-config.php:91
+[18-Aug-2022 18:52:03 UTC] PHP   5. include() /Users/joel/Local Sites/dangertrimz/app/public/wp-settings.php:566
+[18-Aug-2022 18:52:03 UTC] PHP Fatal error:  require(): Failed opening required '/Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/inc/block-patterns.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/functions.php on line 67
+[18-Aug-2022 18:52:03 UTC] PHP Stack trace:
+[18-Aug-2022 18:52:03 UTC] PHP   1. {main}() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/admin-ajax.php:0
+[18-Aug-2022 18:52:03 UTC] PHP   2. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/admin-ajax.php:22
+[18-Aug-2022 18:52:03 UTC] PHP   3. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-load.php:50
+[18-Aug-2022 18:52:03 UTC] PHP   4. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-config.php:91
+[18-Aug-2022 18:52:03 UTC] PHP   5. include() /Users/joel/Local Sites/dangertrimz/app/public/wp-settings.php:566
+[18-Aug-2022 18:52:16 UTC] PHP Warning:  require(/Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/inc/block-patterns.php): failed to open stream: No such file or directory in /Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/functions.php on line 67
+[18-Aug-2022 18:52:16 UTC] PHP Stack trace:
+[18-Aug-2022 18:52:16 UTC] PHP   1. {main}() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/themes.php:0
+[18-Aug-2022 18:52:16 UTC] PHP   2. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/themes.php:10
+[18-Aug-2022 18:52:16 UTC] PHP   3. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/admin.php:34
+[18-Aug-2022 18:52:16 UTC] PHP   4. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-load.php:50
+[18-Aug-2022 18:52:16 UTC] PHP   5. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-config.php:91
+[18-Aug-2022 18:52:16 UTC] PHP   6. include() /Users/joel/Local Sites/dangertrimz/app/public/wp-settings.php:566
+[18-Aug-2022 18:52:16 UTC] PHP Fatal error:  require(): Failed opening required '/Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/inc/block-patterns.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/functions.php on line 67
+[18-Aug-2022 18:52:16 UTC] PHP Stack trace:
+[18-Aug-2022 18:52:16 UTC] PHP   1. {main}() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/themes.php:0
+[18-Aug-2022 18:52:16 UTC] PHP   2. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/themes.php:10
+[18-Aug-2022 18:52:16 UTC] PHP   3. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-admin/admin.php:34
+[18-Aug-2022 18:52:16 UTC] PHP   4. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-load.php:50
+[18-Aug-2022 18:52:16 UTC] PHP   5. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-config.php:91
+[18-Aug-2022 18:52:16 UTC] PHP   6. include() /Users/joel/Local Sites/dangertrimz/app/public/wp-settings.php:566
+[18-Aug-2022 18:52:16 UTC] PHP Warning:  require(/Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/inc/block-patterns.php): failed to open stream: No such file or directory in /Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/functions.php on line 67
+[18-Aug-2022 18:52:16 UTC] PHP Stack trace:
+[18-Aug-2022 18:52:16 UTC] PHP   1. {main}() /Users/joel/Local Sites/dangertrimz/app/public/index.php:0
+[18-Aug-2022 18:52:16 UTC] PHP   2. require() /Users/joel/Local Sites/dangertrimz/app/public/index.php:17
+[18-Aug-2022 18:52:16 UTC] PHP   3. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-blog-header.php:13
+[18-Aug-2022 18:52:16 UTC] PHP   4. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-load.php:50
+[18-Aug-2022 18:52:16 UTC] PHP   5. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-config.php:91
+[18-Aug-2022 18:52:16 UTC] PHP   6. include() /Users/joel/Local Sites/dangertrimz/app/public/wp-settings.php:566
+[18-Aug-2022 18:52:16 UTC] PHP Fatal error:  require(): Failed opening required '/Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/inc/block-patterns.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/joel/Local Sites/dangertrimz/app/public/wp-content/themes/dangertrimz/functions.php on line 67
+[18-Aug-2022 18:52:16 UTC] PHP Stack trace:
+[18-Aug-2022 18:52:16 UTC] PHP   1. {main}() /Users/joel/Local Sites/dangertrimz/app/public/index.php:0
+[18-Aug-2022 18:52:16 UTC] PHP   2. require() /Users/joel/Local Sites/dangertrimz/app/public/index.php:17
+[18-Aug-2022 18:52:16 UTC] PHP   3. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-blog-header.php:13
+[18-Aug-2022 18:52:16 UTC] PHP   4. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-load.php:50
+[18-Aug-2022 18:52:16 UTC] PHP   5. require_once() /Users/joel/Local Sites/dangertrimz/app/public/wp-config.php:91
+[18-Aug-2022 18:52:16 UTC] PHP   6. include() /Users/joel/Local Sites/dangertrimz/app/public/wp-settings.php:566

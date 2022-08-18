@@ -1,5 +1,20 @@
-<?php
-// There is nothing output here because block themes do not use php templates.
-// There is a core ticket discussing removing this requirement for block themes:
-// https://core.trac.wordpress.org/ticket/54272.
+<!DOCTYPE html>
+<html lang="en-US">
 
+<head>
+  <title>Dosth App - Home Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background-color: teal;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Test website's home page</h1>
+</body>
+
+</html>
